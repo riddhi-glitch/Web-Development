@@ -1,0 +1,22 @@
+#outer-box {
+  background-color: green;
+}
+
+.box {
+  background-color: violet;
+  padding: 10px;
+}
+
+.inner-box {
+  background-color: darkmagenta;
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+
+.white-text {
+  color: white;
+}
